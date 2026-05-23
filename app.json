@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Hundred",
+    "slug": "hundred-tracker",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "scheme": "hundred",
+    "splash": {
+      "backgroundColor": "#0F172A",
+      "resizeMode": "contain"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.hundred.tracker"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0F172A"
+      },
+      "package": "com.hundred.tracker"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
