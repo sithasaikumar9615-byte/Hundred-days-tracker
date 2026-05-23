@@ -6,6 +6,9 @@
     "orientation": "portrait",
     "userInterfaceStyle": "automatic",
     "scheme": "hundred",
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
     "splash": {
       "backgroundColor": "#0F172A",
       "resizeMode": "contain"
